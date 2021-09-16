@@ -291,7 +291,7 @@ if __name__ == '__main__':
         ansname = "ans.txt"
     else:
         print("输入错误!")
-        exit(0)
+        exit()
     t1 = time.time()
     ans = MGci(words_txt)
     get_ans_and_out(ans,org_txt,ans_txt)  # 得到答案数组并输出到文件

@@ -1,2 +1,0 @@
-zhconv	1.4.2	
-pypinyin	0.42.0	

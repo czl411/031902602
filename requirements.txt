@@ -1,2 +1,2 @@
-zhconv	1.4.2	
-pypinyin	0.42.0	
+zhconv==1.4.2	
+pypinyin==0.42.0	
